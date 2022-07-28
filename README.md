@@ -9,5 +9,5 @@ Chapter 2 **"Comparative genome annotation of four North American spruces (*Pice
 The results include the following:           
 ● Phylogeny of single-copy protein-coding genes          
 ● Analysis of positive selection on orthologous genes         
-● Updated phylogeny described in Gagalova et al. with resampling information and additional phylogenetic tree in the analysis based on single-copy genes + Astral-III     
-● Updated gene family expansion/contraction analysis with more accurate species tree.    
+● Updated phylogeny described in Gagalova et al. with resampling information     
+● Updated gene family expansion/contraction analysis with accurate species tree (better separation between spruces and pines)          

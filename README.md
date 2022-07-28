@@ -3,7 +3,7 @@
 Updated results of the spruce giga-genomes paper - Gagalova et al., 2022
 
 ## Source
-Updated results as in ["Annotation of complex genomes for comparative genomics"](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0412903)        
+Updated results as in ["Annotation of complex genomes for comparative genomics"](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0412903) - &copy; Kristina K. Gagalova        
 Chapter 2 **"Comparative genome annotation of four North American spruces (*Picea*, Pinaceae)"** 
 
 The results include the following:           

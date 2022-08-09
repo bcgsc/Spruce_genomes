@@ -1,6 +1,7 @@
 ## Spruce genomes
 
 ![Sitka spruce](img/SitkaSpruce_pacific.jpg)
+&copy; *LukaDrone* [lucaintini](https://github.com/lucaintini) 
 
 Updated results of the spruce giga-genomes paper - Gagalova et al., 2022
 
